@@ -54,5 +54,3 @@ Outside of tech, I actively participate in student leadership roles and athletic
 - 🐙 GitHub: [deepshikachand](https://github.com/deepshikachand)
 
 ---
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepshikachand&theme=dracula)
