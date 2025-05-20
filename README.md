@@ -13,9 +13,21 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepshikachand&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikachand&theme=midnight-purple" />
+  <h3>✨ Featured Projects</h3>
 </div>
+
+<p align="center">
+  <a href="https://github.com/deepshikachand/together-we-can">
+    <img alt="Together We Can" src="https://img.shields.io/badge/Together_We_Can-Social%20Impact%20Platform-blueviolet?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/deepshikachand/facial-recognition-security">
+    <img alt="IoT Security" src="https://img.shields.io/badge/Facial_Recognition-IoT%20Security-orange?style=for-the-badge&logo=raspberrypi"/>
+  </a>
+  <a href="#">
+    <img alt="Power BI" src="https://img.shields.io/badge/Ecommerce_Dashboard-Analytics-success?style=for-the-badge&logo=powerbi"/>
+  </a>
+</p>
+
 
 ---
 
