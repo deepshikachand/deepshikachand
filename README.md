@@ -13,9 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=IoT+%7C+AI+%7C+Web+Development;Loves+Blending+Tech+%26+Social+Impact;Always+Learning+%F0%9F%93%9A+Building+%F0%9F%9A%80+Contributing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=600&lines=IoT+%7C+AI+%7C+Web+Development;Loves+Blending+Tech+%26+Social+Impact;Always+Learning+📚+Building+🚀+Contributing" alt="Typing SVG" />
 </p>
-
 
 
 ---
